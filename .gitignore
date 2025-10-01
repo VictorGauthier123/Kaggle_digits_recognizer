@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environments ----
+.venv*/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# ---- Data files (too large for GitHub) ----
+data/*.csv
+data/*.pkl
+data/*.npy
+data/*.npz
+
+# ---- Logs ----
+*.log
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- PyTorch / ML checkpoints ----
+*.pt
+*.pth
+*.ckpt
+
+# ---- Results / Submissions ----
+results/*.csv
+
+# ---- IDE configs ----
+.vscode/
+.idea/
