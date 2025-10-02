@@ -5,6 +5,7 @@ Recognizer](https://www.kaggle.com/c/digit-recognizer) competition (Top
 10%).\
 Goal: recognize handwritten digits (MNIST) from 28×28 images.
 
+<img width="1201" height="147" alt="image" src="https://github.com/user-attachments/assets/aff1461d-204a-455c-b590-9cb60e2d49ac" />
 
 
 ------------------------------------------------------------------------
